@@ -133,6 +133,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 ---
 
-**Desenvolvido com 💻 e ☕ por [Seu Nome](https://github.com/seu-usuario).**
+**Desenvolvido com 💻 e ☕ por [Base2 Tecnologia](https://github.com/Base2-Tecnologia).**
 
 
